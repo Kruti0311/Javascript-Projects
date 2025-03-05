@@ -1,0 +1,12 @@
+body {
+    background-color: #212121;
+    color: aliceblue;
+
+}
+
+#main {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
