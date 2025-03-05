@@ -18,7 +18,10 @@ Projects List 📂
 14. Weather App - Fetches and displays weather data using an API.
 
 How to Run the Projects? 🛠
+
 1.Clone the repository:
 [Javascript Projects](https://github.com/Kruti0311/Javascript-Projects.git)
+
 2. Open the project folder of your choice.
-3. Open the index.html file in a browser to run the project.
+3. 
+4. Open the index.html file in a browser to run the project.
