@@ -21,5 +21,6 @@ How to Run the Projects? 🛠<br/>
 
 1.Clone the repository:<br/>
 [Javascript Projects](https://github.com/Kruti0311/Javascript-Projects.git)<br/>
+git clone https://github.com/Kruti0311/Javascript-Projects.gits
 2. Open the project folder of your choice.  <br/>
 3. Open the index.html file in a browser to run the project.<br/>
